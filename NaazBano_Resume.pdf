@@ -1,0 +1,23 @@
+// ResumeSection.jsx
+
+import React from "react";
+
+const ResumeSection = () => {
+  return (
+    <section id="resume" className="resume-section">
+      <h2>Resume</h2>
+      <p>Feel free to download my resume</p>
+      <a
+        href="/NaazBano_Resume.pdf"
+        download
+        className="download-btn"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        📄 Download Resume
+      </a>
+    </section>
+  );
+};
+
+export default ResumeSection;

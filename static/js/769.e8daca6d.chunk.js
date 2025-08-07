@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdeveloperfolio=self.webpackChunkdeveloperfolio||[]).push([[769],{6769:(e,a,l)=>{l.r(a),l.d(a,{default:()=>s});l(2791),l(3365);var r=l(184);function s(e){let{prof:a}=e;return(0,r.jsx)("div",{className:"image-content-profile",children:(0,r.jsx)("img",{src:a.avatarUrl,alt:a.name,className:"profile-image"})})}}}]);
+//# sourceMappingURL=769.e8daca6d.chunk.js.map
