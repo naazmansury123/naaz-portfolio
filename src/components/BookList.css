@@ -1,0 +1,18 @@
+.book-list-container {
+  padding: 40px 20px;
+  background-color: #f9f9f9;
+}
+
+.list-title {
+  text-align: center;
+  font-size: 2.5rem;
+  color: #222;
+  margin-bottom: 40px;
+}
+
+.book-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px; /* कार्ड्स के बीच स्पेस के लिए */
+}
